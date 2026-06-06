@@ -1,0 +1,2 @@
+minuman|es teler|6000.0|air
+minuman|es taro|4000.0|air
